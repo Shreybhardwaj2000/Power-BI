@@ -1,2 +1,2 @@
 # Power-BI
-It contains all my projects which are done using Power BI
+It contains super store sales analysis projects which is done using Power BI
