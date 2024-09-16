@@ -1,6 +1,6 @@
-SuperStore Sales Analysis Using PowerBI
+SuperStore Sales Analysis Using Python and PowerBI
 <br>
-It contains super store sales analysis projects which is done using Power BI
+It contains super store sales analysis projects which is done using Python and Power BI
 <br>
 <br>
 <br>
